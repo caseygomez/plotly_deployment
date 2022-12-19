@@ -44,7 +44,7 @@ Using my knowledge of JavaScript, Plotly, and D3.js, I created a bubble chart th
 Using my knowledge of JavaScript, Plotly, and D3.js, I create a gauge chart that displays the weekly washing frequency's value, as well as the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 
 ### Deployment 
-Using my knowledge of HTML and Bootstrap I customized the webpage for my dashboard. There is an image in the jumbotron, additional information about the project as well as additional informaiton about each graph. 
+Using my knowledge of HTML and Bootstrap I customized the webpage for my dashboard. There is an image in the jumbotron, additional information about the project as well as additional information about each graph. 
 
 When the dashboard is first opened in a browser, ID 940’s data is displayed in the dashboard, and the three charts are working according to their requirements.
 When a sample is selected, the dashboard updates to display the data in the panel and all three charts according to their requirements.
